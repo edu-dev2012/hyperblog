@@ -1,3 +1,8 @@
 Es es la historia mía.
 
 Mañana será otro día
+
+Esc+I:
+Insertar comentarios en git
+
+Esc+Shift+zz
