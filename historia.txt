@@ -2,7 +2,9 @@ Es es la historia mía.
 
 Mañana será otro día
 
+Comandos para interactuar en el editor de texto vim de git bash
 Esc+I:
 Insertar comentarios en git
 
-Esc+Shift+zz
+Esc (Se suelta)+
+Shift+zz
